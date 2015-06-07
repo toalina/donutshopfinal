@@ -1,0 +1,87 @@
+/* Stylesheet for Code Fellows HW5 DonutShopDonutMaster */
+body {
+  background-color: #fefbe9;
+  margin: 0 auto;
+}
+
+header {
+  margin: 10px;
+  padding: 10px;
+  background-color: #c2f2d0;
+  margin: 0 auto;
+}
+h1 {
+  color: #6b3e26;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+h2 {
+  color: #ffcb85;
+  text-align: center;
+  font-family: Arial;
+}
+
+table {
+  font-family: Arial;
+  color: #6b3e26;
+  border: 5px dotted #ffc5d9;
+  border-radius: 20px;
+  text-align: center;
+}
+
+th, td {
+  padding: 5px;
+}
+button {
+  font-size: 100%;
+  font-family: 'Lobster', cursive;
+  border-radius: 10px;
+  margin: 10px auto;
+}
+input {
+  padding: 20px auto;
+  font-size: 100%;
+  display: block;
+  margin: 10px auto;
+  /*max-width: 75%;*/
+}
+
+.col {
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  width: 325px;
+  max-width: 80%;
+  height: 350px;
+}
+.row {
+  margin: 0 auto;
+}
+#marnie {
+  padding-right: 0;
+  width: 80%;
+
+  display: block;
+}
+form {
+  width: 250px;
+  border: 5px dotted #ffc5d9;
+  border-radius: 20px;
+}
+footer {
+  clear:both;
+  text-align: center;
+  font-family: Helvetica;
+  color: #6b3e26;
+}
+/*#main{
+  width:500px;
+  margin: 0 auto;
+}
+#report {
+  float: left;
+  width: 49%;
+  border: 1px;
+}
+
+*/
